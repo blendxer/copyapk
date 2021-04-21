@@ -1,1 +1,0 @@
-{'lessons_text_color': (1, 1, 1), 'lessons_canvas_color': [0, 0, 0, 0.7], 'lessons_font_size': 19, 'meet_link_canvas_color': [0, 0, 0, 0.7], 'current_background': 'C:\\Users\\abdul\\Desktop\\tex\\defbg.jpg', 'current_thumb': 'C:\\Users\\abdul\\Desktop\\tex\\defthum.png'}
