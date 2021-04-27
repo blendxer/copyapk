@@ -1,0 +1,1 @@
+{'ﺕﺎﻴﺳﺎﺳﺍ': ['13:14', '14:00', False, False, False, False, False, False, False, False, False, False, 'https://meet.google.com/kwg-gsky-rea'], 'ﺕﺎﻴﻨﻘﺗ': [False, False, '02:00', '04:00', False, False, False, False, False, False, False, False, 'xof-vpbr-egy']}
